@@ -2,7 +2,7 @@
 
 > **Engage. Empower. Elevate.**
 
-Mac Admins India is a community for Apple IT professionals across India.
+**Mac Admins India** is a community for Apple IT professionals across India.
 
 Our WhatsApp Community is a space to connect, learn, share knowledge,
 discover opportunities, and support fellow Apple IT professionals. To
