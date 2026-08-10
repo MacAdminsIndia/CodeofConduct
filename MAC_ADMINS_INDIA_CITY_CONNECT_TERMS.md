@@ -1,4 +1,4 @@
-# Mac Admins India City Connect – Terms & Conditions
+# Mac Admins India City Connect – Sponsors Terms & Conditions
 
 **Mac Admins India City Connect** is a series of community-led, in-person meetups that brings Apple IT professionals together locally to connect, share technical knowledge, learn from one another, and strengthen the Apple IT community.
 
