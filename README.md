@@ -24,7 +24,7 @@ City Connect events may be supported by sponsors and venue partners while remain
 
 Please review the applicable Terms & Conditions before participating in a Mac Admins India City Connect event:
 
-* Sponsors ➡️ [City Connect Terms & Conditions⁠](MAC_ADMINS_INDIA_CITY_CONNECT_TERMS.md)⁠  
+* Sponsors ➡️ [City Connect Terms & Conditions⁠](CITY_CONNECT_SPONSORS_TERMS.md)⁠  
 * Attendees ➡️ [City Connect Attendee Terms & Conditions](CITY_CONNECT_ATTENDEE_TERMS.md)⁠￼
 
 By sponsoring, hosting, speaking at, registering for, or attending a Mac Admins India City Connect event, you agree to the applicable Terms & Conditions and the ⁠Mac Admins India Code of Conduct.
