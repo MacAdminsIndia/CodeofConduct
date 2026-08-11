@@ -7,37 +7,25 @@
 
 ## 1. About Sponsor Technical Workshops
 
-Mac Admins India Sponsor Technical Workshops are **free technical
-workshops and training sessions independently organised and delivered by
-eligible sponsors of Mac Admins India Connect** and promoted to the Mac
-Admins India community.
+Mac Admins India Sponsor Technical Workshops are **free technical workshops and training sessions independently organised and delivered by eligible sponsors of Mac Admins India Connect** and promoted to the Mac Admins India community.
 
-These workshops are intended to provide practical, meaningful technical
-learning opportunities for Apple IT professionals while recognising and
-supporting organisations that contribute to Mac Admins India and Mac
-Admins India Connect.
+These workshops are intended to provide practical, meaningful technical learning opportunities for Apple IT professionals while recognising and supporting organisations that contribute to Mac Admins India and Mac Admins India Connect.
 
-Mac Admins India's primary role is to **promote eligible workshops to
-the community**. Unless specifically agreed otherwise, Mac Admins India
-is not the organiser, training provider, registration provider, venue
-provider, or operator of these workshops.
+Mac Admins India's primary role is to **promote eligible workshops to the community**. Unless specifically agreed otherwise, Mac Admins India is not the organiser, training provider, registration provider, venue provider, or operator of these workshops.
 
 ## 2. Eligibility
 
-Sponsor Technical Workshop promotional support is available **only to
-eligible sponsors of Mac Admins India Connect**.
+Sponsor Technical Workshop promotional support is available **only to eligible sponsors of Mac Admins India Connect**.
 
-Mac Admins India reserves the right to review and approve a proposed
-workshop before promoting it through official community channels.
+Mac Admins India reserves the right to review and approve a proposed workshop before promoting it through official community channels.
 
-Sponsorship does not automatically guarantee approval of every proposed
-workshop.
+Sponsorship does not automatically guarantee approval of every proposed workshop.
+
+Eligibility to request promotional support applies to the applicable Mac Admins India Connect sponsorship cycle and does not create an ongoing entitlement to future promotional support.
 
 ## 3. Free Workshops Only
 
-Mac Admins India will support and promote Sponsor Technical Workshops
-under this program **only when participation is completely free for
-attendees**.
+Mac Admins India will support and promote Sponsor Technical Workshops under this program **only when participation is completely free for attendees**.
 
 The workshop must not require attendees to pay:
 
@@ -48,22 +36,17 @@ The workshop must not require attendees to pay:
 -   Certification or participation certificate fees.
 -   Any other compulsory fee required to participate in the workshop.
 
-This program does **not apply to paid workshops, paid training programs,
-paid certification courses, or other commercial training activities**.
+This program does **not apply to paid workshops, paid training programs, paid certification courses, or other commercial training activities**.
 
-Optional commercial services offered separately by the vendor must not
-be a condition of attending or completing the workshop.
+Optional commercial services offered separately by the vendor must not be a condition of attending or completing the workshop.
 
-Mac Admins India reserves the right to decline or withdraw promotion if
-a workshop advertised as free subsequently introduces mandatory charges.
+Mac Admins India reserves the right to decline or withdraw promotion if a workshop advertised as free subsequently introduces mandatory charges.
 
 ## 4. Technical and Educational Value
 
-Sponsor Technical Workshops should provide **meaningful technical and
-educational value** to the Mac Admins India community.
+Sponsor Technical Workshops should provide **meaningful technical and educational value** to the Mac Admins India community.
 
-The workshop should not primarily function as a sales presentation,
-marketing event, product pitch, or lead-generation exercise.
+The workshop should not primarily function as a sales presentation, marketing event, product pitch, or lead-generation exercise.
 
 Vendor-specific technical content is welcome and may include:
 
@@ -81,19 +64,13 @@ Vendor-specific technical content is welcome and may include:
 -   Real-world implementation scenarios.
 -   Technical comparisons and solution design.
 
-A reasonable introduction to the vendor, its products, and services is
-acceptable. However, a substantial portion of the workshop should
-provide useful technical knowledge that attendees can take away from the
-session.
+A reasonable introduction to the vendor, its products, and services is acceptable. However, a substantial portion of the workshop should provide useful technical knowledge that attendees can take away from the session.
 
-Mac Admins India may request an agenda or outline before agreeing to
-promote a workshop.
+Mac Admins India may request an agenda or outline before agreeing to promote a workshop.
 
 ## 5. Workshop Certificate
 
-Where reasonably possible, sponsors are encouraged to provide attendees
-who complete the workshop with a **Certificate of Participation or
-Certificate of Completion** at no additional cost.
+Sponsors are expected, wherever reasonably practical, to provide attendees who complete the workshop with a **Certificate of Participation or Certificate of Completion** at no additional cost.
 
 The certificate should clearly identify:
 
@@ -101,21 +78,15 @@ The certificate should clearly identify:
 -   Vendor or training provider.
 -   Participant name, where applicable.
 -   Date of the workshop.
--   Nature of the certificate, such as "Certificate of Participation" or
-    "Certificate of Completion".
+-   Nature of the certificate, such as "Certificate of Participation" or "Certificate of Completion".
 
-Unless separately authorised, certificates must not imply that Mac
-Admins India has assessed, accredited, certified, or formally endorsed
-the attendee's technical competency.
+Unless separately authorised, certificates must not imply that Mac Admins India has assessed, accredited, certified, or formally endorsed the attendee's technical competency.
 
-Any official product certification, examination, accreditation, or
-professional credential offered by a vendor remains entirely under the
-vendor's applicable certification program and terms.
+Any official product certification, examination, accreditation, or professional credential offered by a vendor remains entirely under the vendor's applicable certification program and terms.
 
 ## 6. Role of Mac Admins India
 
-Mac Admins India may promote approved workshops through appropriate
-community channels, which may include:
+Mac Admins India may promote approved workshops through appropriate community channels, which may include:
 
 -   Mac Admins India WhatsApp Community.
 -   LinkedIn and social media.
@@ -123,8 +94,7 @@ community channels, which may include:
 -   Email communications.
 -   Other official community channels.
 
-Mac Admins India may also provide reasonable guidance regarding event
-messaging and positioning.
+Mac Admins India may also provide reasonable guidance regarding event messaging and positioning.
 
 Unless separately agreed in writing, Mac Admins India does not manage:
 
@@ -143,8 +113,7 @@ Unless separately agreed in writing, Mac Admins India does not manage:
 
 ## 7. Vendor/Sponsor Responsibilities
 
-The vendor or sponsor is solely responsible for organising, managing,
-and delivering the workshop.
+The vendor or sponsor is solely responsible for organising, managing, and delivering the workshop.
 
 This includes, where applicable:
 
@@ -169,14 +138,11 @@ This includes, where applicable:
 -   Attendee queries and support.
 -   All costs associated with conducting the workshop.
 
-The sponsor should provide attendees with clear information about
-prerequisites, required equipment, accounts, software, or other
-preparation before the workshop.
+The sponsor should provide attendees with clear information about prerequisites, required equipment, accounts, software, or other preparation before the workshop.
 
 ## 8. Registration
 
-Registration for Sponsor Technical Workshops is managed **directly by
-the vendor/sponsor** unless specifically stated otherwise.
+Registration for Sponsor Technical Workshops is managed **directly by the vendor/sponsor** unless specifically stated otherwise.
 
 Interested community members are solely responsible for:
 
@@ -187,11 +153,9 @@ Interested community members are solely responsible for:
 -   Meeting any workshop prerequisites.
 -   Attending the workshop at the specified date, time, and location.
 
-Promotion by Mac Admins India does not constitute registration and does
-not guarantee admission.
+Promotion by Mac Admins India does not constitute registration and does not guarantee admission.
 
-Any questions relating to registration, confirmation, waitlists,
-capacity, admission, or attendance must be directed to the vendor.
+Any questions relating to registration, confirmation, waitlists, capacity, admission, or attendance must be directed to the vendor.
 
 ## 9. Attendee Responsibilities
 
@@ -209,14 +173,11 @@ Each attendee is responsible for:
 -   Following reasonable instructions from the vendor and venue.
 -   Participating professionally and respectfully.
 
-An attendee who registers but can no longer attend is encouraged to
-cancel their registration or inform the vendor so that the place may be
-offered to another community member.
+An attendee who registers but can no longer attend is encouraged to cancel their registration or inform the vendor so that the place may be offered to another community member.
 
 ## 10. Attendee Data and Privacy
 
-Registration information is collected and managed directly by the
-vendor/sponsor.
+Registration information is collected and managed directly by the vendor/sponsor.
 
 The vendor is responsible for:
 
@@ -226,19 +187,17 @@ The vendor is responsible for:
 -   Obtaining any legally required consent.
 -   Complying with applicable privacy and data-protection requirements.
 
-Mac Admins India does not control information voluntarily submitted by
-an attendee through a vendor's registration system.
+Mac Admins India does not control information voluntarily submitted by an attendee through a vendor's registration system.
 
 Attendees should review the vendor's privacy terms before registering.
 
-Registration for a free community-promoted workshop should not
-automatically be treated as consent for unrelated marketing where
-separate consent is required.
+Registration for a free community-promoted workshop should not automatically be treated as consent for unrelated marketing where separate consent is required.
+
+Registration must not be conditional on an attendee agreeing to receive unrelated sales or marketing communications unless such processing is necessary and lawful under the vendor's applicable terms. Where marketing consent is requested, it should be clearly distinguishable from workshop registration and handled in accordance with applicable privacy and data-protection requirements.
 
 ## 11. Workshop Content and Responsibility
 
-The vendor, trainer, or individual presenter is responsible for the
-content they provide.
+The vendor, trainer, or individual presenter is responsible for the content they provide.
 
 This includes:
 
@@ -253,28 +212,19 @@ This includes:
 -   Labs and exercises.
 -   Opinions and statements.
 
-Mac Admins India does not independently validate, certify, or guarantee
-the accuracy, security, completeness, or suitability of workshop
-content.
+Mac Admins India does not independently validate, certify, or guarantee the accuracy, security, completeness, or suitability of workshop content.
 
-Views and opinions expressed during a workshop belong to the respective
-vendor, trainer, speaker, or attendee and do not necessarily represent
-the views of Mac Admins India.
+Views and opinions expressed during a workshop belong to the respective vendor, trainer, speaker, or attendee and do not necessarily represent the views of Mac Admins India.
 
 ## 12. Vendor-Specific Content
 
-Sponsors may conduct workshops focused on their own products, platforms,
-or services.
+Sponsors may conduct workshops focused on their own products, platforms, or services.
 
 This is expected and acceptable.
 
-However, the workshop should maintain a strong technical and educational
-focus and should not be misleadingly represented as an independent
-recommendation or endorsement from Mac Admins India.
+However, the workshop should maintain a strong technical and educational focus and should not be misleadingly represented as an independent recommendation or endorsement from Mac Admins India.
 
-Mac Admins India supports an open Apple IT ecosystem and may promote
-workshops from multiple organisations, including vendors offering
-competing technologies.
+Mac Admins India supports an open Apple IT ecosystem and may promote workshops from multiple organisations, including vendors offering competing technologies.
 
 ## 13. No Product or Vendor Endorsement
 
@@ -287,30 +237,21 @@ Mac Admins India's promotion of a workshop does not constitute:
 -   Accreditation of the training.
 -   A commercial recommendation.
 
-Mac Admins India promotes eligible workshops as a **community benefit
-provided by sponsors supporting Mac Admins India Connect**.
+Mac Admins India promotes eligible workshops as a **community benefit provided by sponsors supporting Mac Admins India Connect**.
 
 ## 14. Code of Conduct
 
-All participants, including attendees, trainers, vendor representatives,
-speakers, and staff, are expected to maintain a professional,
-respectful, inclusive, and harassment-free environment.
+All participants, including attendees, trainers, vendor representatives, speakers, and staff, are expected to maintain a professional, respectful, inclusive, and harassment-free environment.
 
-Mac Admins India expects Sponsor Technical Workshops promoted to its
-community to align with the principles of the **Mac Admins India Code of
-Conduct**.
+Mac Admins India expects Sponsor Technical Workshops promoted to its community to align with the principles of the **Mac Admins India Code of Conduct**.
 
-The vendor remains responsible for managing the workshop, venue,
-attendees, staff, and any incidents occurring during the event.
+The vendor remains responsible for managing the workshop, venue, attendees, staff, and any incidents occurring during the event.
 
 ## 15. Branding and Promotion
 
-The vendor may state that the workshop is being promoted to the Mac
-Admins India community as part of its support for Mac Admins India
-Connect.
+The vendor may state that the workshop is being promoted to the Mac Admins India community as part of its support for Mac Admins India Connect.
 
-Use of the Mac Admins India name, logo, or brand assets must follow
-guidance or approval provided by the Mac Admins India Team.
+Use of the Mac Admins India name, logo, or brand assets must follow guidance or approval provided by the Mac Admins India Team.
 
 The vendor must not imply that:
 
@@ -319,13 +260,11 @@ The vendor must not imply that:
 -   The workshop is an official Mac Admins India certification.
 -   Mac Admins India has validated the workshop content.
 
-Mac Admins India retains discretion over how workshops are described and
-promoted through its official channels.
+Mac Admins India retains discretion over how workshops are described and promoted through its official channels.
 
 ## 16. Information Required for Promotion
 
-Sponsors should provide accurate information sufficiently in advance,
-including:
+Sponsors should provide accurate information sufficiently in advance, including:
 
 -   Workshop title.
 -   Description.
@@ -342,8 +281,7 @@ including:
 -   Vendor contact information.
 -   Certificate availability, where applicable.
 
-The sponsor is responsible for ensuring that information supplied to Mac
-Admins India is accurate and current.
+The sponsor is responsible for ensuring that information supplied to Mac Admins India is accurate and current.
 
 ## 17. Changes and Cancellation
 
@@ -358,20 +296,17 @@ The vendor is responsible for communicating changes relating to:
 -   Postponement.
 -   Cancellation.
 
-Mac Admins India may, where practical, share important updates through
-its community channels after receiving them from the vendor.
+Mac Admins India may, where practical, share important updates through its community channels after receiving them from the vendor.
 
-Attendees should rely on official vendor communications for the latest
-workshop information.
+Attendees should rely on official vendor communications for the latest workshop information.
 
-Mac Admins India is not responsible for costs or inconvenience incurred
-by attendees due to changes, postponements, cancellations, or other
-workshop-related circumstances.
+Mac Admins India is not responsible for costs or inconvenience incurred by attendees due to changes, postponements, cancellations, or other workshop-related circumstances.
+
+Sponsors should make reasonable efforts to deliver a workshop once it has been publicly announced. Repeated cancellations, significant last-minute changes, or failure to deliver an announced workshop may affect eligibility for future Mac Admins India promotional support.
 
 ## 18. No Guarantee of Attendance or Outcomes
 
-Mac Admins India may make reasonable efforts to promote an approved
-workshop but does not guarantee:
+Mac Admins India may make reasonable efforts to promote an approved workshop but does not guarantee:
 
 -   Number of registrations.
 -   Attendance.
@@ -382,18 +317,13 @@ workshop but does not guarantee:
 -   Commercial outcomes.
 -   Completion rates.
 
-Similarly, Mac Admins India does not guarantee to attendees that
-participation will result in certification, employment opportunities,
-professional advancement, product competency, or any other particular
-outcome.
+Similarly, Mac Admins India does not guarantee to attendees that participation will result in certification, employment opportunities, professional advancement, product competency, or any other particular outcome.
 
 ## 19. Responsibility and Liability
 
-The workshop is independently organised and delivered by the sponsoring
-vendor.
+The workshop is independently organised and delivered by the sponsoring vendor.
 
-To the extent permitted by applicable law, Mac Admins India is not
-responsible for:
+To the extent permitted by applicable law, Mac Admins India is not responsible for:
 
 -   Workshop organisation or delivery.
 -   Registration or admission.
@@ -410,25 +340,17 @@ responsible for:
 -   Workshop changes or cancellations.
 -   Certificates.
 -   Disputes between attendees and vendors.
--   Any loss, expense, inconvenience, or damage arising from
-    participation in the workshop.
+-   Any loss, expense, inconvenience, or damage arising from participation in the workshop.
 
-Attendees participate voluntarily and are responsible for deciding
-whether the workshop, its activities, and any technical guidance
-provided are appropriate for them.
+Attendees participate voluntarily and are responsible for deciding whether the workshop, its activities, and any technical guidance provided are appropriate for them.
 
-Nothing in these Terms & Conditions excludes any responsibility or
-liability that cannot lawfully be excluded.
+Nothing in these Terms & Conditions excludes any responsibility or liability that cannot lawfully be excluded.
 
 ## 20. Separate from Mac Admins India Connect
 
-Sponsor Technical Workshops are separate activities from the official
-**Mac Admins India Connect** conference program unless explicitly stated
-otherwise.
+Sponsor Technical Workshops are separate activities from the official **Mac Admins India Connect** conference program unless explicitly stated otherwise.
 
-They are additional technical learning opportunities independently
-provided by eligible sponsors and promoted by Mac Admins India as a
-benefit to the community.
+They are additional technical learning opportunities independently provided by eligible sponsors and promoted by Mac Admins India as a benefit to the community.
 
 Conducting a workshop does not provide a sponsor with exclusivity over:
 
@@ -439,49 +361,35 @@ Conducting a workshop does not provide a sponsor with exclusivity over:
 -   A product segment.
 -   Future workshops.
 
-Mac Admins India may promote workshops from multiple sponsors, including
-competing vendors.
+Mac Admins India may promote workshops from multiple sponsors, including competing vendors.
 
 ## 21. Acceptance by Vendors/Sponsors
 
-By requesting Mac Admins India to promote a Sponsor Technical Workshop,
-the vendor/sponsor acknowledges and agrees to these Guidelines & Terms &
-Conditions.
+By requesting Mac Admins India to promote a Sponsor Technical Workshop, the vendor/sponsor acknowledges and agrees to these Guidelines & Terms & Conditions.
 
-The vendor acknowledges that it remains solely responsible for
-organising, managing, and delivering the workshop.
+The vendor acknowledges that it remains solely responsible for organising, managing, and delivering the workshop.
 
 ## 22. Acceptance by Attendees
 
-By registering for or participating in a Sponsor Technical Workshop
-promoted by Mac Admins India, attendees acknowledge that:
+By registering for or participating in a Sponsor Technical Workshop promoted by Mac Admins India, attendees acknowledge that:
 
 -   The workshop is independently organised by the sponsoring vendor.
 -   Registration is directly with the vendor.
 -   Participation is voluntary.
--   Mac Admins India is providing promotional/community outreach support
-    only.
+-   Mac Admins India is providing promotional/community outreach support only.
 -   The vendor is responsible for workshop delivery and administration.
--   The attendee is responsible for reviewing and accepting any
-    applicable vendor registration, privacy, venue, or participation
-    terms.
+-   The attendee is responsible for reviewing and accepting any applicable vendor registration, privacy, venue, or participation terms.
 
 ## 23. Changes to These Terms
 
-Mac Admins India may update these Guidelines & Terms & Conditions from
-time to time.
+Mac Admins India may update these Guidelines & Terms & Conditions from time to time.
 
-The applicable version will generally be the version published or
-communicated at the time the workshop is promoted.
+The applicable version will generally be the version published or communicated at the time the workshop is promoted.
 
 ## About Mac Admins India
 
-**Mac Admins India** is a community for Apple IT professionals across
-India.
+**Mac Admins India** is a community for Apple IT professionals across India.
 
-Through community discussions, local meetups, technical initiatives,
-Sponsor Technical Workshops, and **Mac Admins India Connect**, we create
-opportunities for Apple IT professionals to connect, share practical
-knowledge, learn, and grow together.
+Through community discussions, local meetups, technical initiatives, Sponsor Technical Workshops, and **Mac Admins India Connect**, we create opportunities for Apple IT professionals to connect, share practical knowledge, learn, and grow together.
 
 **Engage. Empower. Elevate.**
