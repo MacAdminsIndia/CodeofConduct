@@ -1,8 +1,8 @@
-# Mac Admins India City Connect – Attendee Terms & Conditions
+# Mac Admins India City Connect -- Attendee Terms & Conditions
 
 **Mac Admins India City Connect** is a series of community-led, in-person meetups held across different cities in India. These events bring Apple IT professionals together locally to connect, share technical knowledge, learn from one another, and strengthen the community.
 
-Individual events may be named using the format **Mac Admins India City Connect - <CityName>**.
+Individual events may be named using the format **Mac Admins India City Connect - `<CityName>`{=html}**.
 
 These Terms & Conditions apply to attendees registering for or attending a Mac Admins India City Connect event.
 
@@ -13,6 +13,8 @@ Attendees should register through the official registration channel communicated
 Registration may be subject to venue capacity and operational or safety requirements.
 
 The Mac Admins India Team reserves the right to manage registrations and admission where necessary for capacity, safety, event operations, or compliance with these Terms & Conditions and the Code of Conduct.
+
+If an attendee can no longer attend, they are encouraged to cancel their registration or inform the Mac Admins India Team as early as possible so that the place may be offered to another community member.
 
 ## 2. Community Event
 
@@ -52,13 +54,13 @@ Attendees must follow reasonable rules and requirements established by the event
 
 These may include:
 
-- Visitor registration and check-in procedures
-- Government-issued identification requirements
-- Security and building access procedures
-- Health and safety requirements
-- Restricted areas
-- Photography or recording restrictions
-- Emergency and evacuation procedures
+-   Visitor registration and check-in procedures
+-   Government-issued identification requirements
+-   Security and building access procedures
+-   Health and safety requirements
+-   Restricted areas
+-   Photography or recording restrictions
+-   Emergency and evacuation procedures
 
 Failure to comply with venue requirements may result in an attendee being unable to enter or remain at the venue.
 
@@ -138,12 +140,12 @@ Food and beverages are provided subject to availability and venue arrangements. 
 
 Where alcoholic beverages are available:
 
-- Consumption of alcohol is entirely optional.
-- Alcohol may only be consumed by attendees who meet the legal drinking age and any other applicable requirements at the event location.
-- Attendees are expected to drink responsibly and behave professionally.
-- Attendees must comply with venue policies and applicable laws relating to the service and consumption of alcohol.
-- Attendees should not drink and drive or ride. Anyone consuming alcohol should arrange a safe alternative such as a taxi, rideshare, public transport, or a designated driver.
-- The venue, catering team, or Mac Admins India Team may refuse or discontinue alcohol service where reasonably necessary for safety, legal, venue, or conduct reasons.
+-   Consumption of alcohol is entirely optional.
+-   Alcohol may only be consumed by attendees who meet the legal drinking age and any other applicable requirements at the event location.
+-   Attendees are expected to drink responsibly and behave professionally.
+-   Attendees must comply with venue policies and applicable laws relating to the service and consumption of alcohol.
+-   Attendees should not drink and drive or ride. Anyone consuming alcohol should arrange a safe alternative such as a taxi, rideshare, public transport, or a designated driver.
+-   The venue, catering team, or Mac Admins India Team may refuse or discontinue alcohol service where reasonably necessary for safety, legal, venue, or conduct reasons.
 
 Attendees remain responsible for their own decisions, behaviour, transportation, and wellbeing in connection with alcohol consumption.
 
@@ -151,11 +153,11 @@ Attendees remain responsible for their own decisions, behaviour, transportation,
 
 The Mac Admins India Team reserves the right to refuse admission or ask an attendee to leave where reasonably necessary due to:
 
-- A serious or repeated Code of Conduct violation
-- Harassment or inappropriate behaviour
-- Significant disruption to sessions or the event
-- Safety or security concerns
-- Failure to comply with reasonable venue requirements
+-   A serious or repeated Code of Conduct violation
+-   Harassment or inappropriate behaviour
+-   Significant disruption to sessions or the event
+-   Safety or security concerns
+-   Failure to comply with reasonable venue requirements
 
 Decisions relating to community conduct and event participation will be handled by the Mac Admins India Team.
 
@@ -177,7 +179,7 @@ The version made available through the official Mac Admins India channel will ap
 
 By registering for or attending a Mac Admins India City Connect event, attendees agree to follow these Terms & Conditions and the Mac Admins India Code of Conduct.
 
----
+------------------------------------------------------------------------
 
-**Mac Admins India**  
+**Mac Admins India**\
 *Engage. Empower. Elevate.*
