@@ -1,10 +1,10 @@
-# Mac Admins India City Connect – Sponsors Terms & Conditions
+# Mac Admins India City Connect -- Sponsors Terms & Conditions
 
 **Mac Admins India City Connect** is a series of community-led, in-person meetups that brings Apple IT professionals together locally to connect, share technical knowledge, learn from one another, and strengthen the Apple IT community.
 
 Mac Admins India City Connect events will take place across different cities in India, creating opportunities for community members to meet and collaborate in their local regions.
 
-Individual events may be named using the format **Mac Admins India City Connect - <CityName>**.
+Individual events may be named using the format **Mac Admins India City Connect - `<CityName>`{=html}**.
 
 These Terms & Conditions apply to Mac Admins India City Connect events conducted with the support of sponsors, partners, or venue hosts.
 
@@ -24,11 +24,11 @@ The sponsor will receive a speaking slot as part of the City Connect agenda, wit
 
 Sponsors are encouraged to use their session to share:
 
-- Technical knowledge and demonstrations
-- Practical use cases and workflows
-- Customer experiences or implementation learnings
-- Product capabilities relevant to Apple IT professionals
-- Industry knowledge, challenges, and best practices
+-   Technical knowledge and demonstrations
+-   Practical use cases and workflows
+-   Customer experiences or implementation learnings
+-   Product capabilities relevant to Apple IT professionals
+-   Industry knowledge, challenges, and best practices
 
 As Mac Admins India City Connects are primarily technical and knowledge-sharing events, we strongly encourage sponsor sessions to be **technical and educational rather than primarily sales or marketing presentations**.
 
@@ -174,9 +174,9 @@ The Mac Admins India Team may update these Terms & Conditions when required to s
 
 ## 20. Acceptance
 
-By sponsoring, hosting, speaking at, registering for, or attending a Mac Admins India City Connect, the relevant participant agrees to follow these Terms & Conditions and the Mac Admins India Code of Conduct.
+By sponsoring, hosting, or otherwise supporting a Mac Admins India City Connect, the sponsor, partner, or venue host agrees to follow these Terms & Conditions and the Mac Admins India Code of Conduct.
 
----
+------------------------------------------------------------------------
 
-**Mac Admins India**  
+**Mac Admins India**\
 *Engage. Empower. Elevate.*
