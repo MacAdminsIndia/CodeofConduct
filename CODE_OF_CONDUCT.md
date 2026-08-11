@@ -1,139 +1,108 @@
-# Mac Admins India WhatsApp Community --- Code of Conduct
+# Mac Admins India Community Code of Conduct
 
 > **Engage. Empower. Elevate.**
 
 **Mac Admins India** is a community for Apple IT professionals across India.
 
-Our WhatsApp Community is a space to connect, learn, share knowledge,
-discover opportunities, and support fellow Apple IT professionals. To
-keep it welcoming, professional, safe, and useful for everyone, all
-members are expected to follow this Code of Conduct.
+This Code of Conduct applies across official Mac Admins India community spaces and activities, including the WhatsApp Community and associated groups, virtual events, Mac Admins India City Connect events, Sponsor Technical Workshops promoted by Mac Admins India, Mac Admins India Connect, GitHub community spaces, networking activities, and other official community initiatives.
+
+Our goal is to maintain a welcoming, professional, safe, inclusive, and useful environment for everyone.
 
 ## 1. Be Respectful
 
 Treat everyone with respect and professionalism.
 
-Harassment, discrimination, bullying, personal attacks, threats,
-intimidation, or offensive behaviour will not be tolerated.
+Harassment, discrimination, bullying, personal attacks, threats, intimidation, or offensive behaviour will not be tolerated.
 
-Healthy technical disagreements are welcome --- challenge the idea, not
-the person.
+Healthy technical disagreements are welcome - challenge the idea, not the person.
 
-## 2. Keep Discussions Relevant
+## 2. Professional and Inclusive Participation
 
-Please use the appropriate group for your conversation.
+Participate in a way that supports constructive technical discussion, learning, networking, and collaboration.
 
-### MAI: Discussions 🛠️
+Respect differing levels of experience, technology choices, professional opinions, backgrounds, and perspectives.
 
-For Apple IT discussions, troubleshooting, MDM, macOS/iOS management,
-security, automation, tools, questions, and knowledge sharing.
+Questions from beginners are welcome. Be patient and constructive when helping others.
 
-### Jobs / Career Groups
+## 3. No Harassment or Discrimination
 
-For relevant Apple IT job opportunities and career-related discussions.
+Harassment, discrimination, intimidation, stalking, unwanted attention, or other inappropriate conduct is not acceptable in Mac Admins India community spaces or activities.
 
-### City / Regional Groups
+This includes inappropriate behaviour in person, online, or through private messages arising from participation in the community.
 
-These groups are primarily for local meetups, city-specific updates,
-networking, and helping community members connect locally.
+## 4. No Spam or Unsolicited Promotion
 
-Technical discussions should remain in **MAI: Discussions 🛠️** so
-everyone can benefit from them.
+Do not use Mac Admins India community spaces primarily for unsolicited sales, marketing, repetitive promotion, referral or affiliate links, mass-forwarded messages, or irrelevant advertising.
 
-## 3. No Spam or Unsolicited Promotion
+Relevant Apple IT resources, tools, events, and community initiatives are welcome when shared genuinely for the benefit of the community.
 
-Please don't post:
+Vendors and vendor representatives should not treat community participation as unrestricted access to members for sales or lead-generation purposes.
 
--   Repeated promotional messages
--   Unrelated advertisements
--   Referral or affiliate links
--   Mass-forwarded messages
--   Unsolicited sales or marketing content
--   Irrelevant products, services, events, or groups
+## 5. Respect Privacy and Confidentiality
 
-Relevant Apple IT resources, tools, events, and community initiatives
-are welcome when shared genuinely for the benefit of the community.
+Respect the privacy of other community members.
 
-Vendors should avoid unsolicited product promotion or contacting members
-privately for sales purposes.
+Do not share another person's private messages, contact information, photographs, screenshots of private or community conversations, or personal or company information outside the intended context without appropriate permission.
 
-## 4. Respect Privacy
+Never share confidential information belonging to an employer, customer, vendor, or another organisation without authorisation.
 
-What is shared within the community should be treated with appropriate
-respect for privacy.
+Information obtained through community participation must not be harvested or reused for unsolicited marketing or other unrelated purposes.
 
-Do not share another member's:
+## 6. Keep Community Spaces Appropriate
 
--   Phone number or contact information
--   Private messages
--   Photos or screenshots of conversations
--   Personal or company information
+Do not share sexually explicit, violent, discriminatory, abusive, or otherwise inappropriate content.
 
-outside the community without their permission.
+Avoid political, religious, or other highly divisive discussions unless directly relevant to the professional purpose of the community.
 
-Never share confidential information belonging to your employer,
-customer, or another organisation.
+Follow any additional venue, platform, event, or group-specific guidelines communicated for a particular Mac Admins India activity.
 
-## 5. Keep It Safe for Work
+## 7. Technical Content and Opinions
 
-Please do not share offensive, sexually explicit, violent,
-discriminatory, or otherwise inappropriate content.
+Community members, speakers, attendees, and contributors may share technical experiences, opinions, scripts, configurations, recommendations, and product information.
 
-Avoid political, religious, or other highly divisive discussions unless
-they are directly relevant to the professional purpose of the community.
+Unless explicitly stated otherwise, these are the views and responsibility of the individual contributor and do not necessarily represent Mac Admins India, the Mac Admins India Team, sponsors, venue hosts, or the contributor's employer.
 
-## 6. Help Each Other
+Participants should independently evaluate technical guidance before applying it within their own environments.
 
-Everyone has a different level of Apple IT experience.
+## 8. Vendor-Neutral Community
 
-Questions from beginners are welcome. Please be patient and constructive
-when helping others.
+Mac Admins India supports an open Apple IT ecosystem.
 
-When asking for technical help, provide useful context where possible.
-When you find a solution, consider sharing it back with the community so
-others can learn from it too.
+Community members may discuss different products, vendors, platforms, tools, and technologies, including competing solutions.
 
-## 7. Local Groups Are for Local Connections
+Sponsorship, hosting, or participation by a vendor does not provide editorial control over community discussions or community speaker content.
 
-City and regional groups exist to make it easier for members to meet and
-connect locally.
+## 9. Do Not Misrepresent the Community
 
-All official Mac Admins India meetup announcements may be shared
-community-wide, while local details such as venues, coordination,
-photos, travel suggestions, and informal gatherings can happen in the
-relevant city group.
+Being a member, attendee, speaker, sponsor, volunteer, or participant does not automatically authorise anyone to represent Mac Admins India.
 
-You are welcome to join any city group --- you don't have to live there.
-If you're travelling to another city, feel free to join its group and
-connect with local Mac Admins.
+Do not make commitments, partnerships, sponsorship arrangements, public statements, or other representations on behalf of Mac Admins India unless authorised by the Mac Admins India Team.
 
-## 8. Don't Misrepresent the Community
+## 10. Follow Applicable Rules
 
-Being a member of Mac Admins India does not mean you officially
-represent the community.
+Participants must follow applicable laws and any reasonable rules of the platform, venue, host, or event being used.
 
-Please don't make commitments, partnerships, sponsorship arrangements,
-public statements, or other representations on behalf of Mac Admins
-India unless authorised by the organising team.
+For WhatsApp-specific operational expectations, see the [Mac Admins India WhatsApp Community Guidelines](WHATSAPP_COMMUNITY_GUIDELINES.md).
 
-## 9. Follow WhatsApp's Rules
+## 11. Reporting Concerns
 
-Members must also comply with WhatsApp's Terms of Service and applicable
-laws.
+If you experience or observe behaviour that may violate this Code of Conduct, contact a Mac Admins India community admin or member of the Mac Admins India Team privately.
 
-## 10. Moderation
+Reports will be handled as appropriately and discreetly as reasonably possible, taking into account the circumstances and the need to protect community members.
 
-Community admins may intervene when these guidelines are not followed.
+## 12. Moderation and Enforcement
 
-Depending on the situation, this may include a friendly reminder,
-warning, removal of content where possible, restriction from a group, or
-removal from the Mac Admins India WhatsApp Community.
+The Mac Admins India Team or authorised community admins may take reasonable action when this Code of Conduct is not followed.
 
-Serious harassment, abuse, spam, privacy violations, or behaviour that
-puts community members at risk may result in immediate removal.
+Depending on the circumstances, this may include:
 
-If you experience or observe inappropriate behaviour, please contact a
-Mac Admins India community admin privately.
+-   A reminder or warning.
+-   Moderation of community participation.
+-   Removal from a group, activity, or event.
+-   Restriction from future Mac Admins India community activities.
+-   Immediate removal in serious cases involving harassment, abuse, threats, spam, privacy violations, safety concerns, or significant disruption.
+
+Mac Admins India reserves reasonable discretion in community moderation and event participation decisions.
 
 ------------------------------------------------------------------------
 
@@ -148,8 +117,8 @@ Mac Admins India is built by the community, for the community.
 
 ### Engage. Empower. Elevate.
 
---- **Mac Admins India**
+**Mac Admins India**
 
 ------------------------------------------------------------------------
 
-*Last updated: 8 August 2026*
+*Last updated: 11 August 2026*
