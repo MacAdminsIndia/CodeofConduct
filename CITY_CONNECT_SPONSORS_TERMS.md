@@ -132,15 +132,19 @@ Mac Admins India may request permission from speakers to share presentation slid
 
 Sponsors or venue hosts must not record, reproduce, distribute, or commercially use a community speaker's presentation without the speaker's permission.
 
-## 15. Attendee Information and Privacy
+## 15. Attendee Information, Registration Data and Marketing
 
-Attendee information collected through Mac Admins India registration channels should be used for City Connect administration and community communication purposes.
+Any attendee information shared with or made accessible to a sponsor, partner, or venue host for the purpose of registration, check-in, venue access, security, catering, or event administration must be used only for the specific purpose for which it was provided.
 
-Attendee contact information must not automatically be provided to sponsors for marketing or sales purposes unless the attendee has explicitly agreed to such sharing.
+Sponsors, partners, and venue hosts must **not use attendee registration information for sales, marketing, lead generation, promotional communications, mailing lists, or any unrelated purpose** unless the individual attendee has separately and explicitly provided consent.
 
-Sponsors should not independently collect attendee information on behalf of Mac Admins India without prior agreement from the Mac Admins India Team.
+Attendee information must not be copied, retained, exported, shared with third parties, added to CRM or marketing systems, or otherwise reused beyond the agreed purpose.
 
-Sponsors may provide their own optional lead-generation or contact mechanisms during the City Connect, provided attendees clearly understand that participation is voluntary.
+Where attendee information is required temporarily for event operations or venue access, it should be securely handled and deleted when it is no longer reasonably required for that purpose.
+
+Sponsors may provide their own **optional and clearly identified** mechanisms during the event for attendees who voluntarily wish to share their contact information, request a demonstration, subscribe to communications, enter a promotion, or engage with the sponsor.
+
+Participation in such sponsor activities must be voluntary and separate from Mac Admins India City Connect registration.
 
 ## 16. Event Changes or Cancellation
 
