@@ -6,9 +6,6 @@ Mac Admins India brings together Apple IT professionals across India to connect,
 
 ## Policies & Guidelines
 
-  ------------------------------------------------------------------------------------------------------------
-  Area                                Policy
-  ----------------------------------- ------------------------------------------------------------------------
   Mac Admins India Community          [Community Code of Conduct](CODE_OF_CONDUCT.md)
 
   WhatsApp Community                  [WhatsApp Community Guidelines](WHATSAPP_COMMUNITY_GUIDELINES.md)
